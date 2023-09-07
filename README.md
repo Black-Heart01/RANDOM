@@ -51,11 +51,11 @@ CONTACT WITH <a href="https://github.com/Black-Heart01">
  - `pip install mechanize`
  - `pip install bs4`
  - `pkg install git`
- - `rm -rf X-RANDOM`
- - `git clone https://github.com/Black-Heart01/X-RANDOM`
- - `cd X-RANDOM`
+ - `rm -rf RANDOM`
+ - `git clone https://github.com/Black-Heart01/RANDOM`
+ - `cd RANDOM`
  - `git pull`
- - `python K-RANDOM.py`
+ - `python FUCK-Enc.py`
 
 
 #### MY SOCIAL MEDIA
@@ -66,6 +66,3 @@ CONTACT WITH <a href="https://github.com/Black-Heart01">
 
 
 <h2> THANKS FOR VISIT ✘✘ <h2\>
-
-
-
